@@ -48,15 +48,15 @@ Favicon은 커피 원두의 느낌을 살리면서 사이트의 분위기와 잘
 
 #### Favicon 디자인 후보
 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/056c1652-62f6-444a-8ae5-20c1a03a6fb5" alt="image 43" width="100"/>
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/679e2843-2505-4101-a423-16e98881e998" alt="image 46" width="100"/>
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/a0b7e3eb-8cde-445a-b7b2-a584604abb97" alt="image 44" width="100"/>
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/1221f966-8b3d-47d3-88b3-33b66ce300c3" width="100"/>
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/4066a408-5ac4-40e2-9994-0d34f6840c3a" width="100"/>
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/4cdc096b-0f2c-4481-9fd8-c05ad6f48672" width="100"/>
 
 ### 색상
 
 밝으면서도 커피 고유의 따뜻한 느낌을 내기 위해 여러 색 조합을 시도하고 저희만의 색상 팔렛트를 완성했습니다.
 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/545c2cef-ea35-4bca-8855-e5320f21d3aa" alt="image 49" width="90%"/>
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/451ab535-d5be-4a76-af84-6c33562e1446" width="90%"/>
 
 ---
 
@@ -135,8 +135,8 @@ Favicon은 커피 원두의 느낌을 살리면서 사이트의 분위기와 잘
 
 ## 📑 기획 스토리 보드
 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/dd4139d8-2069-47bd-b7be-8601ae19f6b2" alt="디자인 맵" width="90%"/> 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/b63e6d30-fdad-427f-98ea-4313b560e8ea" alt="헤더" width="90%"/> 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/7b4a6cb3-19b1-4c5e-99d6-68e769f7d94a" alt="메뉴 정보" width="90%"/> 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/f41f3de7-9041-42af-8f88-85d746a39bf6" alt="서치" width="90%"/> 
-<img src="https://github.com/gnlgk/coffee-api/assets/161446039/1268752b-a889-4370-bf43-eca5f901fb68" alt="제작자 픽" width="90%"/>
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/b83db5b4-ec1d-404b-9391-d89475e3109d" alt="디자인 맵" width="90%"/> 
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/316d6d8b-9241-4081-b2a6-f775fb9e1f03" alt="헤더" width="90%"/> 
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/c80436cc-9ef5-4b74-a5b1-99b2f2729a17" alt="메뉴 정보" width="90%"/> 
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/d7a2763d-f3c2-42dc-9404-55118121f41f" alt="제작자 픽" width="90%"/> 
+<img src="https://github.com/sunhew/coffeemenu/assets/161446039/53d9650d-7720-4436-b69c-a7a6f657a5b3" alt="서치" width="90%"/>
