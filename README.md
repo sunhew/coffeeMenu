@@ -4,7 +4,7 @@
 
 # CoffeeMenu
 
-[사이트 방문](#)
+[사이트 방문](https://coffeemenu-eight.vercel.app/)
 
 ## 프로젝트 설명
 
@@ -126,10 +126,10 @@ Favicon은 커피 원두의 느낌을 살리면서 사이트의 분위기와 잘
 ## 👤 프로젝트 팀원
 
 박진아
-[Coffee Menu](), [Nmail](gnlgk@naver.com), [MainPage](https://gnlgk.github.io/class2024/)
+[Coffee Menu](https://coffeemenu-eight.vercel.app/), [Nmail](gnlgk@naver.com), [MainPage](https://gnlgk.github.io/class2024/)
 
 최선화
-[Coffee Menu](), [Gmail](liarusen@gmail.com), [MainPage](https://sunhew.github.io/class2024/)
+[Coffee Menu](https://coffeemenu-eight.vercel.app/), [Gmail](liarusen@gmail.com), [MainPage](https://sunhew.github.io/class2024/)
 
 ---
 
