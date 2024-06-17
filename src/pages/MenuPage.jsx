@@ -12,7 +12,7 @@ const MenuPage = () => {
         const fetchCoffeeData = async () => {
             try {
                 const today = new Date().toISOString().split('T')[0];
-                const response = await fetch(`https://raw.githubusercontent.com/gnlgk/coffee-menu/main/${coffeeId}/menu${coffeeId}_2024-05-29.json`);
+                const response = await fetch(`https://raw.githubusercontent.com/sunhew/Menucoffee/main/${coffeeId}/menu${coffeeId}_2024-06-15.json`);
 
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
