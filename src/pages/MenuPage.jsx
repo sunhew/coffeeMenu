@@ -58,7 +58,7 @@ const MenuPage = () => {
                                         <h4>{coffee.title}</h4>
                                         <div className='titleeng'>{coffee.titleE}</div>
                                         <div className='desc'>
-                                            {coffee.description.length > 100 ? `${coffee.description.substring(0, 100)}...` : coffee.description}
+                                            {coffee.description ? (coffee.description.length > 100 ? `${coffee.description.substring(0, 100)}...` : coffee.description) : "설명이 없습니다."}
                                         </div>
                                         {coffee.information && (
                                             <div className='info'>
